@@ -3,5 +3,4 @@
 
 > [!IMPORTANT]
 > This project is a fork of MultiMC. </br> </br>
-> This software is provided without any warranty, so please don't contact the main
-> MultiMC developers in case anything goes wrong using this launcher. </br> </br>
+> "his software is provided as-is with no warranty, so please do not contact the main MultiMC developers if you face any problems with this launcher. </br> </br>
