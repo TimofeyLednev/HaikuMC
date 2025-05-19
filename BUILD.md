@@ -47,6 +47,9 @@ mkdir build
 mkdir install
 # clone the complete source
 git clone --recursive https://github.com/TimofeyLednev/HaikuMC.git src
+cd src
+git checkout HaikuMC
+cd ..
 # configure the project
 cd build
 cmake -DCMAKE_INSTALL_PREFIX=../install ../src
