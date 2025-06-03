@@ -34,6 +34,9 @@ Getting the project to build and run on Linux is easy if you use any modern and 
 * zlib (for example, `zlib1g-dev`)
 * Java JDK 8 (for example, `openjdk-8-jdk`)
 * GL headers (for example, `libgl1-mesa-dev`)
+* GCC Syslibs
+
+```pkgman install zlib_devel qt5_devel cmake openjdk8 mesa_devel gcc_syslibs_devel```
 
 ### Building from command line
 You need a source folder, a build folder and an install folder.
