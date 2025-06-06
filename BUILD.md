@@ -25,7 +25,7 @@ git submodule update
 
 # HaikuMC
 
-Getting the project to build and run on Linux is easy if you use any modern and up-to-date linux distribution.
+Getting the project to build and run on Haiku is easy if you use any modern and up-to-date haiku distribution.
 
 ## Build dependencies
 * A C++ compiler capable of building C++11 code.
